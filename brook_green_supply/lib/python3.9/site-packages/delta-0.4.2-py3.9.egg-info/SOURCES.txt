@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+delta/__init__.py
+delta/parse.py
+delta.egg-info/PKG-INFO
+delta.egg-info/SOURCES.txt
+delta.egg-info/dependency_links.txt
+delta.egg-info/top_level.txt
+test/test_parse.py
